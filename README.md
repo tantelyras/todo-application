@@ -9,35 +9,26 @@
 > todo list
 
 
-### ✨ [Demo](https://natainbogdan.netlify.app/)
-
+### ✨ (https://tantelyraso.netlify.app/)
 ## Install
-
 ```sh
 yarn install
 ```
-
 ## Usage
-
 ```sh
 yarn run start
 ```
-
 ## Run tests
-
 ```sh
 yarn run test
 ```
-
 ## Author
 
-👤 **Natain Bogdan**
+👤 **Tantely Rasoloniaina**
 
 
-* Github: [@Natain](https://github.com/Natain)
+* Github: [@Natain](https://github.com/tantelyras)
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
 
 
